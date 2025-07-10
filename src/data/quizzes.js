@@ -59,7 +59,7 @@ export const quizzes = [
   {
     id: "Ancillary Services Market Basics",
     slug: "aeso-205-basic",
-    title: "Division 205: AAncillary Services Market Basics",
+    title: "Division 205: Ancillary Services Market Basics",
     questions: [
       {
         qid: 1,
